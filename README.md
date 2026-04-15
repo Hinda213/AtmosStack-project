@@ -68,32 +68,47 @@ If this is not provided, frontend defaults to http://localhost:4000.
 -----------------------
 Getting Started
 From the frontend directory:
-
 npm install
 npm run dev
 App runs on the Vite dev server (usually http://localhost:5173).
 
+---------------
 Build
 npm run build
 Backend Quick Start (for full app)
 From the backend directory:
 
+------------------
 Add your OpenWeather API key in src/.env
 Run:
 npm install
 npm run dev
 Backend endpoints:
 
+-----------------
 GET /health
 GET /weather?city=<cityName>
-🧠 What I Learned How to build a full-stack application using React and Express Handling API requests and errors properly Managing state in React Creating responsive UI with Tailwind CSS Adding animations with Framer Motion Securing API keys using a backend Deploying frontend and backend separately
+🧠 What I Learned 
+- How to build a full-stack application using React and Express
+- Handling API requests and errors properly
+- Managing state in React
+- Creating responsive UI with Tailwind CSS Adding animations with Framer Motion
+- Securing API keys using a backend Deploying frontend and backend separately
 
-🚀 Future Improvements 🌍 Add geolocation (get user’s current city) 📅 5-day weather forecast 🌙 Dark mode toggle 💾 Save recent searches 📱 Improve mobile responsiveness
+-----------------------
+🚀 Future Improvements
+🌍 Add geolocation (get user’s current city) 
+📅 5-day weather forecast 
+🌙 Dark mode toggle 
+💾 Save recent searches 
+📱 Improve mobile responsiveness
 
+------------------
 👩‍💻 Author
 
-Your Name GitHub: https://github.com/Hinda213
-
+Your Name Hinda Mohamoud 
+GitHub: https://github.com/Hinda213
+-------------------
 📄 License
 
 This project is open source and available under the MIT License.
