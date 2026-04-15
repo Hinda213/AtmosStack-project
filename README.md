@@ -1,5 +1,4 @@
 Weather App (Full-stack)
-
 ------------
 
 A modern full-stack weather application built with React, TypeScript, tailwind CSS, Express, and Vite. Users can search for any city and view real-time weather data including temepreture, humidity, wind speed, and conditions.
@@ -105,8 +104,7 @@ GET /weather?city=<cityName>
 
 ------------------
 👩‍💻 Author
-
-Your Name Hinda Mohamoud 
+Name Hinda Mohamoud 
 GitHub: https://github.com/Hinda213
 -------------------
 📄 License
