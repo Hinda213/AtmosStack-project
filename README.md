@@ -3,12 +3,13 @@ Weather App (Full-stack)
 ------------
 
 A modern full-stack weather application built with React, TypeScript, tailwind CSS, Express, and Vite. Users can search for any city and view real-time weather data including temepreture, humidity, wind speed, and conditions.
+
 -----------------
 
 🚀 Live Demo
  https://atmos-stack-project-n8bp.vercel.app/ 
-
 ---------------
+
 -## 📸 Features
 
 🌍 Search weather by city name
@@ -32,6 +33,7 @@ Axios
 API
 -OpenWeatherMap API
 
+---------------
 Project Structure
 src/
   components/
@@ -49,15 +51,21 @@ src/
     weatherVisuals.ts
   App.tsx
   main.tsx
+  
+  -----------------
 Prerequisites
+
 Node.js 18+ (recommended)
 Backend running on http://localhost:4000
 Environment Variables
 Create a .env file in the frontend folder if you want a custom backend URL:
 
+-------------
+
 VITE_API_BASE_URL=http://localhost:4000
 If this is not provided, frontend defaults to http://localhost:4000.
 
+-----------------------
 Getting Started
 From the frontend directory:
 
